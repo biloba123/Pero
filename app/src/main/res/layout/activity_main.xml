@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lvqingyang.pero.view.EmptyView
+    android:id="@+id/ev"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:load_text="@string/loading"
+    app:fail_text="@string/failed"
+    app:fail_icon="@drawable/ic_load_fail"
+    app:view_show="@layout/layout_pero"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+</com.lvqingyang.pero.view.EmptyView>
+

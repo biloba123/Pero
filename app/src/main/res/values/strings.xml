@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pero</string>
+    <string name="loading">加载中...</string>
+    <string name="failed">获取失败，点击重试</string>
+</resources>
